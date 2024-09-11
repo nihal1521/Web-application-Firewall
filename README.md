@@ -21,8 +21,7 @@ docker pull wafwafdetective/waf_waf:V1.1
 ```
 
 ## Usage
-Can be found in the [WAF WAF Manual](https://github.com/N-R-technologies/WAF-WAF/blob/master/manual/manual.md).<br>
-The manual is also installed with WAF WAF at `waf_waf/manual/manual.md`.
+The manual is installed with WAF WAF at `waf_waf/manual/manual.md`.
 
 ## Features & Technology
 At the end of each day, an email attached with a detailed log will be sent, containing information about all the attempted attacks on the server.<br>
